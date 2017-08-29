@@ -1,0 +1,20 @@
+Package: htop
+Name: htop
+Version: 2.0.2-1
+Maintainer: Leo Izen (thebombzen) <leo.izen+apt.repo@gmail.com>
+Architecture: iphoneos-arm
+Description: Interactive process viewer
+Priority: optional
+Depends: ncurses
+Section: Administration
+Tag: purpose::console, role::hacker
+Homepage: https://hisham.hm/htop/
+Author: Hisham Muhammad
+Filename: ./debs/htop_2.0.2-1_iphoneos-arm.deb
+MD5sum: 2439024348db176b9e863340570f7140
+SHA1: c381500f63ee8c538ae71904bbce10b98d0a97fc
+SHA256: 1a814539277de6823b873682453f77766fa241b8e82a51400a50e187856caa57
+Size: 69646
+
+
+
