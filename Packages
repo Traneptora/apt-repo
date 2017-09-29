@@ -27,6 +27,7 @@ Priority: optional
 Section: Development
 Tag: purpose::library, role::hacker
 Homepage: http://libpipeline.nongnu.org/
+Filename: ./debs/libpipeline_1.4.2-1_iphoneos-arm.deb
 MD5sum: 64f48ae6b2bb39b40d6e1da4febdbb73
 SHA1: 6ddaae1a7bdf5a81b49edb75980c7cb3fce065d5
 SHA256: 85f0a20b49ffa881a65b11f092afc3585a3742def40dbceaeeb06429594123e7
@@ -45,6 +46,7 @@ Section: Utilities
 Tag: purpose::console, role::hacker
 Homepage: https://www.gnu.org/software/groff/
 Author: Bernd Warken
+Filename: ./debs/groff_1.22.3-1_iphoneos-arm.deb
 MD5sum: e68537b21905bc41561b3ce39df0d50c
 SHA1: 7b934c2d04b86652742c6ab77c71522247659f3f
 SHA256: 8802878f5b04fff8def75426a5239ac4beacccc1c914def07a20e60bd4d54986
@@ -62,6 +64,7 @@ Dependencies: ncurses, groff, libpipeline, less, bash, berkeleydb
 Section: Utilities
 Tag: purpose::console, role::hacker
 Homepage: http://man-db.nongnu.org/
+Filename: ./debs/man_2.7.6.1-1_iphoneos-arm.deb
 MD5sum: 7ac6951588862b8de9844972a66b6f35
 SHA1: 01bd83413c2b9f55ee78977aaf95474962c85f87
 SHA256: 1df4a3352f3ef85211f05ef699fddeb69b7af1ef1b84feba0b88ee5d2f50d3d2
