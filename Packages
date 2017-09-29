@@ -47,10 +47,10 @@ Tag: purpose::console, role::hacker
 Homepage: https://www.gnu.org/software/groff/
 Author: Bernd Warken
 Filename: ./debs/groff_1.22.3-1_iphoneos-arm.deb
-MD5sum: e68537b21905bc41561b3ce39df0d50c
-SHA1: 7b934c2d04b86652742c6ab77c71522247659f3f
-SHA256: 8802878f5b04fff8def75426a5239ac4beacccc1c914def07a20e60bd4d54986
-Size: 3753756
+MD5sum: c79571be6cd410f1902fade9af39a6af
+SHA1: 8777ac8caffc7ee365d9af481ea06bf052bdcd28
+SHA256: df42263f359d90f4fd385d1c70eb63bcba730e9e85108f3666657b8a4f355971
+Size: 3753754
 
 
 Package: man

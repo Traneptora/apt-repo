@@ -1,11 +1,12 @@
-Package: man
-Name: man
-Version: 2.7.6.1-1
+Package: groff
+Name: groff
+Version: 1.22.3-1
 Maintainer: Leo Izen (thebombzen) <leo.izen+apt.repo@gmail.com>
 Architecture: iphoneos-arm
-Description: An interface to the on-line reference manuals
+Description: The groff typesetting system
 Priority: optional
-Dependencies: ncurses, groff, libpipeline, less, bash, berkeleydb
+Depends: ncurses
 Section: Utilities
 Tag: purpose::console, role::hacker
-Homepage: http://man-db.nongnu.org/
+Homepage: https://www.gnu.org/software/groff/
+Author: Bernd Warken
