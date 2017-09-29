@@ -1,0 +1,11 @@
+Package: man
+Name: man
+Version: 2.7.6.1-1
+Maintainer: Leo Izen (thebombzen) <leo.izen+apt.repo@gmail.com>
+Architecture: iphoneos-arm
+Description: An interface to the on-line reference manuals
+Priority: optional
+Dependencies: ncurses, groff, libpipeline, less, bash, berkeleydb
+Section: Utilities
+Tag: purpose::console, role::hacker
+Homepage: http://man-db.nongnu.org/
