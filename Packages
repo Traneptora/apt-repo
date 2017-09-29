@@ -65,9 +65,8 @@ Section: Utilities
 Tag: purpose::console, role::hacker
 Homepage: http://man-db.nongnu.org/
 Filename: ./debs/man_2.7.6.1-1_iphoneos-arm.deb
-MD5sum: 7ac6951588862b8de9844972a66b6f35
-SHA1: 01bd83413c2b9f55ee78977aaf95474962c85f87
-SHA256: 1df4a3352f3ef85211f05ef699fddeb69b7af1ef1b84feba0b88ee5d2f50d3d2
-Size: 582852
-
+MD5sum: a0b14f17cf0bc35646c6a012d24f7e1b
+SHA1: 10deb9c12b85dd3b4bad3a33ce2c511316149fb3
+SHA256: d5387b623fe23bb86806d0e8fc998de60407b1bfe068d1011f674e5c6d8c4bc9
+Size: 582850
 
