@@ -41,7 +41,7 @@ Maintainer: Leo Izen (thebombzen) <leo.izen+apt.repo@gmail.com>
 Architecture: iphoneos-arm
 Description: The groff typesetting system
 Priority: optional
-Dependencies: ncurses
+Depends: ncurses
 Section: Utilities
 Tag: purpose::console, role::hacker
 Homepage: https://www.gnu.org/software/groff/
@@ -60,7 +60,7 @@ Maintainer: Leo Izen (thebombzen) <leo.izen+apt.repo@gmail.com>
 Architecture: iphoneos-arm
 Description: An interface to the on-line reference manuals
 Priority: optional
-Dependencies: ncurses, groff, libpipeline, less, bash, berkeleydb
+Depends: ncurses, groff, libpipeline, less, bash, berkeleydb
 Section: Utilities
 Tag: purpose::console, role::hacker
 Homepage: http://man-db.nongnu.org/
