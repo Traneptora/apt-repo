@@ -36,7 +36,7 @@ Size: 79176
 
 Package: groff
 Name: groff
-Version: 1.22.3-1
+Version: 1.22.3-2
 Maintainer: Leo Izen (thebombzen) <leo.izen+apt.repo@gmail.com>
 Architecture: iphoneos-arm
 Description: The groff typesetting system
@@ -46,11 +46,11 @@ Section: Utilities
 Tag: purpose::console, role::hacker
 Homepage: https://www.gnu.org/software/groff/
 Author: Bernd Warken
-Filename: ./debs/groff_1.22.3-1_iphoneos-arm.deb
-MD5sum: 6e7a880e1a5539f41dda0a5e722c2b31
-SHA1: 34aff7e534f886be23a5fd58d744dba364151d5c
-SHA256: 82a54ae21cc638c58ea7effe02d24f5cd6b7a720a6dd35f9564eab278ca0425f
-Size: 3753754
+Filename: ./debs/groff_1.22.3-2_iphoneos-arm.deb
+MD5sum: 78c096a355278c9d5683a7b2ad34c65a
+SHA1: 356ea519f206e0eecd1d04acc68215bc0a5d5aca
+SHA256: e402c3083bed0a1545d08e190de8b62fe48f9c51ed9afc05a1ab4d78474dfe75
+Size: 3753732
 
 
 Package: man
